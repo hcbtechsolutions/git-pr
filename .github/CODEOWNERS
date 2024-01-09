@@ -1,3 +1,4 @@
 *.js @hcb-techsolutions
 .github/ @hcb007
 *.go @hcb-techsolutions
+*.html @hcb007
